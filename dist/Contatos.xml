@@ -1,0 +1,22 @@
+<list>
+  <Contato>
+    <codigo>0a80412a-7340-42d2-bcc1-3690588e0813</codigo>
+    <nome>Saulo 23</nome>
+    <telefone></telefone>
+    <fax></fax>
+    <celular></celular>
+    <observacao></observacao>
+    <tipoContato>Pessoal</tipoContato>
+    <isFavorite>false</isFavorite>
+  </Contato>
+  <Contato>
+    <codigo>98d19800-5316-4dc6-a6d3-03548bf228c0</codigo>
+    <nome>JoaoHHH</nome>
+    <telefone></telefone>
+    <fax></fax>
+    <celular></celular>
+    <observacao></observacao>
+    <tipoContato>Profissional</tipoContato>
+    <isFavorite>false</isFavorite>
+  </Contato>
+</list>
