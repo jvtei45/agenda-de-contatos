@@ -1,0 +1,32 @@
+<list>
+  <Contato>
+    <codigo>df180a7c-5ab6-494f-9af6-5c8ba2c64f1e</codigo>
+    <nome>Saulo Salo </nome>
+    <telefone></telefone>
+    <fax></fax>
+    <celular></celular>
+    <observacao></observacao>
+    <tipoContato>Profissional</tipoContato>
+    <isFavorite>true</isFavorite>
+  </Contato>
+  <Contato>
+    <codigo>526b484e-80b1-44d7-b609-c7303c44a94e</codigo>
+    <nome>Joao 40</nome>
+    <telefone></telefone>
+    <fax></fax>
+    <celular></celular>
+    <observacao></observacao>
+    <tipoContato>Pessoal</tipoContato>
+    <isFavorite>false</isFavorite>
+  </Contato>
+  <Contato>
+    <codigo>d6e100fd-6d12-49bc-89e2-d3c66cc2a860</codigo>
+    <nome>Saulo45</nome>
+    <telefone></telefone>
+    <fax></fax>
+    <celular></celular>
+    <observacao></observacao>
+    <tipoContato>Pessoal</tipoContato>
+    <isFavorite>false</isFavorite>
+  </Contato>
+</list>
